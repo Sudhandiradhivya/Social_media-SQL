@@ -16,3 +16,6 @@ The project is useful for gaining valuable insights into social media interactio
 
  ### 3. How can users get started with the project?
 Users can explore the project repository on GitHub for documentation, code samples, and instructions for running the analysis.
+
+ppt presentation [here][Social Media Analysis.pdf](https://github.com/Sudhandiradhivya/Social_media-SQL/files/14305226/Social.Media.Analysis.pdf)
+
